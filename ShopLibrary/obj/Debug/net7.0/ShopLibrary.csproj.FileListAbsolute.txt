@@ -1,0 +1,12 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\bin\Debug\net7.0\ShopLibrary.deps.json
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\bin\Debug\net7.0\ShopLibrary.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\bin\Debug\net7.0\ShopLibrary.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.AssemblyInfoInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.AssemblyInfo.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\refint\ShopLibrary.dll
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ShopLibrary.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Трифонов ПР-21\ShopLibrary\obj\Debug\net7.0\ref\ShopLibrary.dll
